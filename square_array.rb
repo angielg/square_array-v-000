@@ -3,6 +3,6 @@ def square_array(array)
   number**2
   end
   new_number = [number**2]
-  returns new_number
+  return new_number
   
 end
