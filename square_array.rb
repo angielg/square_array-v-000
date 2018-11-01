@@ -3,5 +3,5 @@ def square_array(array)
   number **2
   end
   number **2 = new_array
-  return new_array
+  puts new_array
 end
